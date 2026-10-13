@@ -1,5 +1,3 @@
-### Hi, I'm Anthony 👋
-
 I build things end to end: games, hardware, and the tools I wish existed. I write about how they work (and break) at **[0xkata.github.io](https://0xkata.github.io)**.
 
 #### What I'm building
