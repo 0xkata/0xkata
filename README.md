@@ -4,10 +4,10 @@ I build things end to end: games, hardware, and the tools I wish existed. I writ
 
 #### What I'm building
 
-- **Pixiverse**: a multiplayer productivity RPG for mobile. You do real-life tasks, your character levels up, and your friends grind alongside you in shared rooms.
+- **Pixiverse**: a multiplayer productivity RPG for mobile. You do real-life tasks, your character levels up, and your friends grind alongside you in shared rooms.<br>
   Godot · TypeScript (Nakama) · PostgreSQL · [devlog →](https://0xkata.github.io/posts/pixiverse-devlog-1/)
 
-- **Jonsole**: a hardware console for AI coding agents, with hot-swap keys, a display, a joystick, and a push-to-talk mic. It drives Claude Code and Codex sessions from your desk.
+- **Jonsole**: a hardware console for AI coding agents, with hot-swap keys, a display, a joystick, and a push-to-talk mic. It drives Claude Code and Codex sessions from your desk.<br>
   ESP32 firmware (C) · Rust/Tauri companion app · KiCad PCB · [devlog →](https://0xkata.github.io/posts/jonsole-devlog-1/)
 
 #### Also
